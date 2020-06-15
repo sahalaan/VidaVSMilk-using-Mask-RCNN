@@ -1,10 +1,7 @@
-<<<<<<< HEAD
+
 # VidaVSMilk-using-Mask-RCNN
-The Repository is dependent on the algorithm of Mask RCNN and it can use to detect vida(one brand of draw out tissue) and milk(which is vita milk).
-=======
-<<<<<<< HEAD
-# VidaVSMilk-using-Mask-RCNN
-The Repository is dependent on the algorithm of Mask RCNN and it can use to detect vida(one brand of draw out tissue) and milk(which is vita milk).
+The Repository is dependent on the algorithm of Mask R-CNN and it can use to detect vida(one brand of draw out tissue) and milk(vita milk).
+
 =======
 # Mask R-CNN for Object Detection and Segmentation
 
