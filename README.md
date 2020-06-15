@@ -14,7 +14,7 @@ Please download it and place on your repository root directory.
 * model.py, utils.py, config.py: These files contain the main Mask RCNN implementation.
 
 # Installation
-example is shown in samples/milkvsvida/maskrcnn_download.ipynb.
+Example is shown in samples/milkvsvida/maskrcnn_download.ipynb.
 
 1. Clone this repository
 2. Install dependencies()
@@ -28,11 +28,13 @@ example is shown in samples/milkvsvida/maskrcnn_download.ipynb.
 4. Download pre-trained weights (mask_rcnn_coco.h5) from [google drive](https://drive.google.com/file/d/1HZ9i7IvWW7uSMMODVvPw7pHgKGjK5lKD/view?usp=sharing).
 
 # Citation
-@misc{matterport_maskrcnn_2017,
-  title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
-  author={Waleed Abdulla},
-  year={2017},
-  publisher={Github},
-  journal={GitHub repository},
-  howpublished={\url{https://github.com/matterport/Mask_RCNN}},
-}
+```bash
+   @misc{matterport_maskrcnn_2017,
+     title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
+     author={Waleed Abdulla},
+     year={2017},
+     publisher={Github},
+     journal={GitHub repository},
+     howpublished={\url{https://github.com/matterport/Mask_RCNN}},
+   }
+   ```
