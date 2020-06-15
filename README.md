@@ -1,7 +1,7 @@
 
 # VidaVSMilk-using-Mask-RCNN
 The Repository is dependent on the algorithm of Mask R-CNN and it can use to detect vida(one brand of draw out tissue) and milk(vita milk). Address of Mask R-CNN  is https://github.com/matterport/Mask_RCNN. 
-* Notice: we use the google colab to download, test, train, evaluate, visualize the model.  
+* Notice: we use google colab to download, test, train, evaluate, visualize the model.  
 
 # Download the weights 
 Address：https://drive.google.com/file/d/1HZ9i7IvWW7uSMMODVvPw7pHgKGjK5lKD/view?usp=sharing
