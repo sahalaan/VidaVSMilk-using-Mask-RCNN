@@ -8,16 +8,16 @@ Address：https://drive.google.com/file/d/1HZ9i7IvWW7uSMMODVvPw7pHgKGjK5lKD/view
 Please download it and place on your repository root directory.
 
 # Getting Started
-* milkvsvida_demo.ipynb(in samples folder):Is the easiest way to start. It shows an example of using a model pre-trained on VidaVSMilk dataset(which is calibration by VIA) to segment objects in your own images.
-* milkvsvida_0604.ipynb(in samples/milkvsvida folders):shows how to train Mask R-CNN on VidaVSMilk dataset. 
-* detection_0614.ipynb(in samples folder):shows how to test on VidaVSMilk dataset and compute mAP
+* milkvsvida_demo.ipynb (in samples folder) : Is the easiest way to start. It shows an example of using a model pre-trained on VidaVSMilk dataset (which is calibration by VIA) to segment objects in your own images.
+* milkvsvida_0604.ipynb (in samples/milkvsvida folders) : shows how to train Mask R-CNN on VidaVSMilk dataset. 
+* detection_0614.ipynb (in samples folder) : shows how to test on VidaVSMilk dataset and compute mAP
 * model.py, utils.py, config.py: These files contain the main Mask RCNN implementation.
 
 # Installation
 Example is shown in samples/milkvsvida/maskrcnn_download.ipynb.
 
 1. Clone this repository
-2. Install dependencies()
+2. Install dependencies
 ```bash
    pip3 install -r requirements.txt
    ```
