@@ -16,16 +16,16 @@ Please download it and place on your repository root directory.
 # Installation
 example is shown in samples/milkvsvida/maskrcnn_download.ipynb.
 
-1.Clone this repository
-2.Install dependencies()
+1. Clone this repository
+2. Install dependencies()
 ```bash
    pip3 install -r requirements.txt
    ```
-3.Run setup from the repository root directory
+3. Run setup from the repository root directory
 ```bash
    python3 setup.py install
    ```
-4.Download pre-trained weights (mask_rcnn_coco.h5) from [google drive](https://drive.google.com/file/d/1HZ9i7IvWW7uSMMODVvPw7pHgKGjK5lKD/view?usp=sharing).
+4. Download pre-trained weights (mask_rcnn_coco.h5) from [google drive](https://drive.google.com/file/d/1HZ9i7IvWW7uSMMODVvPw7pHgKGjK5lKD/view?usp=sharing).
 
 # Citation
 @misc{matterport_maskrcnn_2017,
